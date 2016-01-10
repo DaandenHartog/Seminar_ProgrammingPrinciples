@@ -1,0 +1,33 @@
+Les inheritance
+
+Wat is inheritance
+Override functions
+protected variables
+List met entities
+
+Orc		Knight
+HP		NAME
+ATT		HP
+SPD		ATT
+		DEF
+		SPD
+
+Voorbeeld #1 - Meerdere variables
+	Hoe lossen we dit op 
+		Player class  Entity class
+
+Voorbeeld #2 - On click
+	Hoe lossen we dit op
+		Overwrite OnClick, -= damage, call function
+
+Opdracht #1 - Laat de speler bewegen
+	Schrijf loop functie in de speler
+	hint Gebruik GEtKey(Keycode) en transform.translate
+
+Opdracht #2 - Voeg een OnDeath functie toe op de juiste plek
+	On death wacht 2 sec
+	Debug.Log(Uuuuurgh)
+	Disabled de sprite
+		Knight debugt (Ugh, ik ridder 'kip' sterf in deze vieze, verre landen..)
+		hint GetComponent.Disable
+		hint parameters
