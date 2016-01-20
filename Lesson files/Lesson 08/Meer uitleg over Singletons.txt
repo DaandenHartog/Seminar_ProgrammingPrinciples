@@ -1,0 +1,1 @@
+http://www.dotnetperls.com/singleton
